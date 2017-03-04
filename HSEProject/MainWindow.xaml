@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label Content="Типо первый шаг к проекту - начать проект." Height="301" Margin="10,10,0,0" VerticalAlignment="Top" Width="498" FontSize="22" HorizontalAlignment="Left"/>
+
     </Grid>
 </Window>
